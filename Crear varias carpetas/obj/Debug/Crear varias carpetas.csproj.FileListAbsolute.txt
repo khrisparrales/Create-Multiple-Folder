@@ -1,0 +1,26 @@
+C:\Users\HP\source\repos\Crear varias carpetas\Crear varias carpetas\bin\Debug\Crear varias carpetas.exe.config
+C:\Users\HP\source\repos\Crear varias carpetas\Crear varias carpetas\bin\Debug\Crear varias carpetas.exe
+C:\Users\HP\source\repos\Crear varias carpetas\Crear varias carpetas\bin\Debug\Crear varias carpetas.pdb
+C:\Users\HP\source\repos\Crear varias carpetas\Crear varias carpetas\obj\Debug\Crear varias carpetas.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Crear varias carpetas\Crear varias carpetas\obj\Debug\Crear_varias_carpetas.Form1.resources
+C:\Users\HP\source\repos\Crear varias carpetas\Crear varias carpetas\obj\Debug\Crear_varias_carpetas.Properties.Resources.resources
+C:\Users\HP\source\repos\Crear varias carpetas\Crear varias carpetas\obj\Debug\Crear varias carpetas.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Crear varias carpetas\Crear varias carpetas\obj\Debug\Crear varias carpetas.exe
+C:\Users\HP\source\repos\Crear varias carpetas\Crear varias carpetas\obj\Debug\Crear varias carpetas.pdb
+C:\Users\HP\source\repos\Crear varias carpetas\Crear varias carpetas\bin\Debug\Crear varias carpetas.exe.manifest
+C:\Users\HP\source\repos\Crear varias carpetas\Crear varias carpetas\bin\Debug\Crear varias carpetas.application
+C:\Users\HP\source\repos\Crear varias carpetas\Crear varias carpetas\obj\Debug\Crear varias carpetas.exe.manifest
+C:\Users\HP\source\repos\Crear varias carpetas\Crear varias carpetas\obj\Debug\Crear varias carpetas.application
+F:\source\repos\Crear varias carpetas\Crear varias carpetas\bin\Debug\Crear varias carpetas.exe.config
+F:\source\repos\Crear varias carpetas\Crear varias carpetas\bin\Debug\Crear varias carpetas.exe.manifest
+F:\source\repos\Crear varias carpetas\Crear varias carpetas\bin\Debug\Crear varias carpetas.application
+F:\source\repos\Crear varias carpetas\Crear varias carpetas\bin\Debug\Crear varias carpetas.exe
+F:\source\repos\Crear varias carpetas\Crear varias carpetas\bin\Debug\Crear varias carpetas.pdb
+F:\source\repos\Crear varias carpetas\Crear varias carpetas\obj\Debug\Crear varias carpetas.csprojAssemblyReference.cache
+F:\source\repos\Crear varias carpetas\Crear varias carpetas\obj\Debug\Crear_varias_carpetas.Form1.resources
+F:\source\repos\Crear varias carpetas\Crear varias carpetas\obj\Debug\Crear_varias_carpetas.Properties.Resources.resources
+F:\source\repos\Crear varias carpetas\Crear varias carpetas\obj\Debug\Crear varias carpetas.csproj.GenerateResource.cache
+F:\source\repos\Crear varias carpetas\Crear varias carpetas\obj\Debug\Crear varias carpetas.exe.manifest
+F:\source\repos\Crear varias carpetas\Crear varias carpetas\obj\Debug\Crear varias carpetas.application
+F:\source\repos\Crear varias carpetas\Crear varias carpetas\obj\Debug\Crear varias carpetas.exe
+F:\source\repos\Crear varias carpetas\Crear varias carpetas\obj\Debug\Crear varias carpetas.pdb

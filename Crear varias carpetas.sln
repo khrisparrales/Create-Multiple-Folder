@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crear varias carpetas", "Crear varias carpetas\Crear varias carpetas.csproj", "{66BADCD2-D369-4748-B179-5C8ADEA8FECC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66BADCD2-D369-4748-B179-5C8ADEA8FECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66BADCD2-D369-4748-B179-5C8ADEA8FECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66BADCD2-D369-4748-B179-5C8ADEA8FECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66BADCD2-D369-4748-B179-5C8ADEA8FECC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {274102E1-E708-4EB3-B0C4-9EC52BE19AA6}
+	EndGlobalSection
+EndGlobal
